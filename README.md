@@ -1,5 +1,7 @@
 ## Stock Analysis
 
+![This is an Image](https://github.com/ABorden23/stock-analysis/blob/main/istockphoto-1150316505-612x612.png)
+
 # Overview of Project: 
 
 In this project we have a man named Steve that we have prepared a wonderful workbook for him. At the click of a button, we can analyze an entire dataset. After presenting this analysis, Steve now wants a new an improved dataset that can anazlyze thousands of stocks instead of hundreds. Using the Visual Basic Application (VBA) we have created a "Refactored" Worksheet Button that will help seeing multiple stocks faster and more efficient. 
