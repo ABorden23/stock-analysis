@@ -6,7 +6,7 @@
 
 In this project we have prepared a high level workbook for a client named Steve. At the click of a button, we can analyze an entire dataset. After presenting this analysis, Steve now wants a new an improved dataset that can anazlyze thousands of stocks instead of hundreds. Using the Visual Basic Application (VBA) we have created a "Refactored" Worksheet Button that will help seeing multiple stocks faster and more efficient. 
 
-Purpose: To make looking at a Stock Data Set easier and more effiencet to read. 
+Purpose: To make looking at a Stock Data Set easier and more efficient to read. 
 
 # Results: 
 
