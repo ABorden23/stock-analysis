@@ -4,7 +4,7 @@
 
 # Overview of Project: 
 
-In this project we have a man named Steve that we have prepared a wonderful workbook for him. At the click of a button, we can analyze an entire dataset. After presenting this analysis, Steve now wants a new an improved dataset that can anazlyze thousands of stocks instead of hundreds. Using the Visual Basic Application (VBA) we have created a "Refactored" Worksheet Button that will help seeing multiple stocks faster and more efficient. 
+In this project we have prepared a high level workbook for a client named Steve. At the click of a button, we can analyze an entire dataset. After presenting this analysis, Steve now wants a new an improved dataset that can anazlyze thousands of stocks instead of hundreds. Using the Visual Basic Application (VBA) we have created a "Refactored" Worksheet Button that will help seeing multiple stocks faster and more efficient. 
 
 Purpose: To make looking at a Stock Data Set easier and more effiencet to read. 
 
@@ -300,6 +300,11 @@ End Sub
 
 ![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
 
-Summary: In a summary statement, address the following questions.
+Conclusion of Code: Using our Refactored Code, we are able to run our 2017 code 75% faster and our 2018 82% faster. 
+
+Summary: Using VBA is an extremely strong tool I have found... although vastly tedious. I can run some powerful analysis. What I found throughout this project is that when writing the original code then backtracking to refactor. You must watch your steps and think carefully about each move you are making, unless you will end up with multiple errors. 
+
+
+In a summary statement, address the following questions.
 What are the advantages or disadvantages of refactoring code?
 How do these pros and cons apply to refactoring the original VBA script?
