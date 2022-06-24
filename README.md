@@ -12,7 +12,7 @@ Purpose: To make looking at a Stock Data Set easier and more effiencet to read.
 
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-All Stocks Analysis (Orignial Code)
+**All Stocks Analysis (Orignial Code)**
 
 ```
 Sub AllStocksAnalysis()
@@ -143,7 +143,7 @@ By creating a Ticker Index I created 3 output arrays
 *TickerStartingPrices
 *TickerEndingPriceS
 
-Refactored Code
+**Refactored Code**
 
 ```
 Sub AllStocksAnalysisRefactored()
@@ -280,23 +280,23 @@ End Sub
 ```   
 # Code Run Times:
 
-Original Code
+**Original Code**
 
-2017
-
-![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
-
-2018
+*2017*
 
 ![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
 
-Refactored Code
-
-2017
+*2018*
 
 ![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
 
-2018
+**Refactored Code**
+
+*2017*
+
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
+
+*2018*
 
 ![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
 
