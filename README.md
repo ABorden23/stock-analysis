@@ -1,4 +1,4 @@
-## Stock Analysis
+## VBA Stock Analysis
 
 ![This is an Image](https://github.com/ABorden23/stock-analysis/blob/main/istockphoto-1150316505-612x612.png)
 
