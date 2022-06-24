@@ -1,6 +1,6 @@
 ## VBA Stock Analysis
 
-![This is an Image](https://github.com/ABorden23/stock-analysis/blob/main/istockphoto-1150316505-612x612.png)
+![This is an Image](https://github.com/ABorden23/stock-analysis/blob/main/Resources/istockphoto-1150316505-612x612.png)
 
 # Overview of Project: 
 
@@ -289,23 +289,27 @@ End Sub
 
 *2017*
 
-![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/Resources/All%20Stocks%20Analysis%202017%20.png)
 
 *2018*
 
-![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202018.png)
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/Resources/All%20Stocks%20Analysis%202018.png)
 
 **Refactored Code**
 
 *2017*
 
-![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/VBA_Challenge_2017.png%20.png)
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 *2018*
 
-![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/VBA_Challenge_2018.png)
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
-Conclusion of Code: Using our Refactored Code, we are able to run our 2017 code 75% faster and our 2018 82% faster. 
+Conclusion of Code + Examples: Using our Refactored Code, we are able to run our 2017 code 75% faster and our 2018 82% faster. 
+
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/Resources/Dataset%20Example%202017.png)
+
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/Resources/Dataset%20Example%202018.png)
 
 # Summary: 
 
