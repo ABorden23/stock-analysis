@@ -276,6 +276,28 @@ Sub AllStocksAnalysisRefactored()
 End Sub
 
 ```   
+# Code Run Times:
+
+Original Code
+
+2017
+
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
+
+2018
+
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
+
+Refactored Code
+
+2017
+
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
+
+2018
+
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
+
 Summary: In a summary statement, address the following questions.
 What are the advantages or disadvantages of refactoring code?
 How do these pros and cons apply to refactoring the original VBA script?
