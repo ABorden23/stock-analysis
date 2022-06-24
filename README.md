@@ -302,9 +302,6 @@ End Sub
 
 Conclusion of Code: Using our Refactored Code, we are able to run our 2017 code 75% faster and our 2018 82% faster. 
 
-Summary: Using VBA is an extremely strong tool I have found... although vastly tedious. I can run some powerful analysis. What I found throughout this project is that when writing the original code then backtracking to refactor. You must watch your steps and think carefully about each move you are making, unless you will end up with multiple errors. 
+# Summary: Using VBA is an extremely strong tool I have found... although vastly tedious. It will run some powerful analysis and is very useful. What I found throughout this project is that when writing the original code then backtracking to refactor. You must watch your steps and think carefully about each move you are making, unless you will end up with multiple errors. Without a strong backround in coding, this can be quite a learning curve and requires fundamentals to be learned to understand some of these commands.
 
 
-In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
