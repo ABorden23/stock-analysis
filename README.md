@@ -293,17 +293,17 @@ End Sub
 
 *2018*
 
-![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202018.png)
 
 **Refactored Code**
 
 *2017*
 
-![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/VBA_Challenge_2017.png%20.png)
 
 *2018*
 
-![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/All%20Stocks%20Analysis%202017%20.png)
+![This is an image](https://github.com/ABorden23/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 Conclusion of Code: Using our Refactored Code, we are able to run our 2017 code 75% faster and our 2018 82% faster. 
 
